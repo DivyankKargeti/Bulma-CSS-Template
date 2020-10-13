@@ -1,6 +1,9 @@
 # Bulma-CSS-Template
 This repo contains a template designed by me using CSS framework called Bulma.
 
+#### Bulma Landing Page Link
+https://github.com/DivyankKargeti/Bulma-Landing-Page
+
 ## NOTES
 #### Screen Sizes
 
